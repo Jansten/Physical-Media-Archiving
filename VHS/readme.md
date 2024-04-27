@@ -17,9 +17,9 @@
 * Video -> Filters...
 * Add...
 * Deinterlace -> OK
-** Deinterlacing mode -> Interpolate using Yadif algorithm
-** Field order -> Double frame rate, top field first
-*** IMPORTANT: Once you select this filter, go back to your side-by-side video view and step through the video frame by frame (using the left and right arrow keys).  If the video looks like people/animals/etc are moving back and forth instead of in the correct direction, choose "double frame rate, bottom field first"
+    ** Deinterlacing mode -> Interpolate using Yadif algorithm
+    ** Field order -> Double frame rate, top field first
+        *** IMPORTANT: Once you select this filter, go back to your side-by-side video view and step through the video frame by frame (using the left and right arrow keys).  If the video looks like people/animals/etc are moving back and forth instead of in the correct direction, choose "double frame rate, bottom field first"
 * Click OK until you return to the side-by-side view
 * File -> Save As AVI...
 * Set your file destination and let the export process complete
